@@ -88,7 +88,7 @@ class CardGet extends React.Component{
         <ActivityIndicator size="large" color="#0000ff" />
       );
 
-      // return pokemon and move set from api
+      // return pokemon card and name currently 
     }else if (this.state.isLoading == false){
         return (
           <View style={cardStyles.container}>
