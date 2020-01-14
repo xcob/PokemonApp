@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "PokemonApp",
+    "slug": "PokemonApp",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/pokemon-logo-vector.png",
+    "splash": {
+      "image": "./assets/images/pokemon-logo-vector.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#023C69"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
