@@ -228,7 +228,7 @@ const cardStyles = StyleSheet.create({
   },
   pokemonImage: {
        width: 200,
-       height: 275,
+       height: 285,
       resizeMode: 'contain',
       marginTop: 10,
       marginLeft: -10
